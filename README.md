@@ -1,17 +1,8 @@
-# 🍰 Cake-Ordering-Website
-A full-stack cake ordering platform built with React (Vite), Node.js, Express, and MongoDB.
+# React + Vite
 
-## ✨ Features
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-### Frontend (React/Vite)
-- **🍽️ Menu Page**
-- **🛒 Shopping Cart**
-- **⭐ Reviews System**
-- **📜 Recipes Section**
-- **❓ FAQs And About Us Section**
-- **🔧 Purchase Of Baking Tools**
+Currently, two official plugins are available:
 
-### Backend (Node.js/Express)
-- 🚀 RESTful API endpoints
-- 🗄️ MongoDB integration
-- 💳 Order processing
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
